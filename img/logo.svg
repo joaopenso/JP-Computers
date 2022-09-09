@@ -1,0 +1,29 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1188" width="1536" height="1188">
+	<title>Sem_ttulo-1_jvlogo2-ai</title>
+	<defs>
+		<image aria-label="JP"  width="28" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAYCAMAAADeQm2wAAAAAXNSR0IB2cksfwAAAEJQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjuH28gAAABZ0Uk5TACB/QDBvv49f/4DA0GCw8BDgUJDvoJke/tQAAACQSURBVHicrdDRDsIgDAXQQrFacMA2/f9ftRBRM9o9eV9oOAHCBZA477GtEC7eE139zcEnyBz7kHiEgoZJcm+8KNhXl0WDgQCROZsIZYwayujOEM/QvLYyrybmsTXjRnKwzkiSVtA6+pu7LXsFBWMLwjfaV/6Di4n76PGIGGB7cKkqPvu/3lUdMf3Y/CYigpEXRxkJCocBOzkAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #000000;stroke: #000000;stroke-width: 4 } 
+		.s1 { fill: #66676c;stroke: #000000;stroke-width: 4 } 
+		.s2 { fill: #b8bac1;stroke: #000000;stroke-width: 4 } 
+		.s3 { fill: #329642;stroke: #000000;stroke-width: 4 } 
+		.s4 { fill: #dd9c36;stroke: #000000;stroke-width: 4 } 
+		.s5 { fill: #36a1b8;stroke: #000000;stroke-width: 4 } 
+		.s6 { fill: #919b8a;stroke: #000000;stroke-width: 4 } 
+	</style>
+	<g id="Camada 1">
+		<path id="&lt;Path&gt;" class="s0" d="m1507.7 814.7c0 26.5-35 48-78.2 48h-1325c-43.1 0-78.1-21.5-78.1-48v-717.2c0-26.5 35-48 78.1-48h1325c43.2 0 78.2 21.5 78.2 48z"/>
+		<path id="&lt;Path&gt;" class="s1" d="m1433 740c0 26.5-22.2 48-49.6 48h-1250.3c-27.4 0-49.6-21.5-49.6-48v-567.7c0-26.5 22.2-48 49.6-48h1250.3c27.4 0 49.6 21.5 49.6 48z"/>
+		<path id="&lt;Path&gt;" class="s0" d="m675.8 862.7h164.9v211h-164.9z"/>
+		<path id="&lt;Path&gt;" class="s0" d="m594.5 1073.7h345.1v69.1h-345.1z"/>
+		<path id="&lt;Path&gt;" class="s2" d="m1336.3 803.4c12.1 0 21.9 8.8 21.9 19.8 0 10.9-9.8 19.7-21.9 19.7-12.2 0-22-8.8-22-19.7 0-11 9.8-19.8 22-19.8z"/>
+		<path id="&lt;Path&gt;" class="s3" d="m1272.2 837.4c0 3.1-2.5 5.5-5.5 5.5-3 0-5.5-2.4-5.5-5.5v-28.5c0-3.1 2.5-5.5 5.5-5.5 3 0 5.5 2.4 5.5 5.5z"/>
+		<path id="&lt;Path&gt;" class="s3" d="m1291.2 838.7c0 2.3-1.9 4.2-4.3 4.2-2.3 0-4.2-1.9-4.2-4.2v-28.8c0-2.4 1.9-4.3 4.2-4.3 2.4 0 4.3 1.9 4.3 4.3z"/>
+		<path id="&lt;Path&gt;" class="s4" d="m1167.2 805.6h67.5v37.3h-67.5z"/>
+		<path id="&lt;Path&gt;" class="s5" d="m1200.9 813.3c12.7 0 23 4.9 23 11 0 6.1-10.3 11-23 11-12.7 0-23-4.9-23-11 0-6.1 10.3-11 23-11z"/>
+		<path id="&lt;Path&gt;" class="s6" d="m830.2 829.4c0 15.3-12.4 27.7-27.7 27.7h-86.6c-15.3 0-27.7-12.4-27.7-27.7 0-15.2 12.4-27.6 27.7-27.6h86.6c15.3 0 27.7 12.4 27.7 27.6z"/>
+		<use id="JP
+" href="#img1" x="744" y="816"/>
+	</g>
+</svg>

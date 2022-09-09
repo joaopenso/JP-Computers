@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+   <nav> 
+    <div class="container clearfix">
+    <h1>
+        <a href="/">
+        <img src="img/logo.svg" alt="Meu Logotipo">
+        </a>
+    </h1>
+    <ul>
+        <li><a href="index.html">INICIO</a></li>
+        <li><a href="servicos.html">SERVIÇO</a></li>
+        <li><a href="contato.html">CONTATO</a></li>
+        <li><a href="comprar.html">COMPRAR</a></li>
+
+    </ul>
+   </nav>
+   <header>
+    <main>
+    
+    <div class="container clearfix">
+        <div class="col-12">
+            <form id="formu">
+                <label for="name">Informe seu Nome</label>
+                <input type="text" name="nome" id="nome"
+                placeholder="Informe seu Nome" required>
+                
+            <label for="email">Informe seu E-mail</label>
+            <input type="email" name="email" id="email" placeholder="Informe seu E-mail" require="true">
+
+            <label for="nome">Informe su Turma</label>
+            <div class="form-group">
+                <input type="radio" name="turma" id="turma_1A" value="1A" checked>
+                <label for="turma_1A">1A</label>
+                <input type="radio" name="turma" id="turma_1B">
+                <label for="turma_1B">1B</label>
+            </div>
+            <label for="nome">Motivo</label>
+            <select name="motivo" id="motivo" required>
+                <option value="">Selecione o Motivo</option>
+                <option value="duvida">Dúvida</option>
+                <option value="sugestao">Sugestão</option>
+                <option value="problema">Relatar o Problema</option>
+                <option value="outro">Outro</option>
+            </select>
+            <label for="mensagem">Informe sua Mensagem</label>
+            <textarea name="mensagem" od="mensagem" rows="5"></textarea>
+            <button type="submit">
+                Enviar
+            </button>
+             </label>
+            </form>
+        </div>
+    </div>
+   </header>
+   
+    
+    </div>
+</main>
+<footer>
+    <div class="container clearfix">
+        <div class="col-6" id="coluna 1">
+            <h3>Institucional</h3>
+            <ul>
+                <li>
+                    <a href="http://videira.ifc.edu.br/institucional/sobre-o-ifc/">Sobre o IFC</a>
+                </li>
+                <li>
+                    <a href="http://videira.ifc.edu.br/institucional/">Sobre o Campus</a>
+                </li>
+                <li>
+                  <a href="http://videira.ifc.edu.br/catalogo/">Contato</a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-6" id="coluna 2">
+            <h3>Transparência</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea dignissimos deserunt, itaque mollitia sequi repellendus asperiores ducimus voluptatibus. Aliquam necessitatibus dolores expedita magni placeat, nisi est consequatur dolore ad blanditiis!</p>
+        </div>
+
+    </div>
+    </ul>
+    <div class="container clearfix center"></div>
+    <p>Instituto Federal de Educação Ciência e Tecnologia Catarinense - Campus Videira</p>
+    <p>Rodovia SC 135, km 125 - Bairro Campo Experimental - CEP 89564-590 - Videira - SC - Fone: (49) 3533-4900</p>
+</footer>
+<script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript"
+src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+</script>
+<script type="text/javascript">
+(function(){
+emailjs.init("UNlGljlin0vHEkDVk");
+})();
+</script>
+<script>
+emailjs.sendForm("service_8cizczs", "template_c9d30k1", "#formu")
+</script>
+</body>
+</html>
